@@ -1,4 +1,4 @@
-# generator-try-yeoman-demo [![Build Status](https://secure.travis-ci.org/colorpeach/generator-try-yeoman-demo.png?branch=master)](https://travis-ci.org/colorpeach/generator-try-yeoman-demo)
+# generator-try-yeoman-demo [![Build Status](https://secure.travis-ci.org/colorpeach/generator-try-yeoman-demo.png?branch=master)](https://travis-ci.org/colorpeach/generator-try-yeoman-demo) [![Greenkeeper badge](https://badges.greenkeeper.io/colorpeach/generator-try-yeoman-demo.svg)](https://greenkeeper.io/)
 
 > [Yeoman](http://yeoman.io) generator
 
